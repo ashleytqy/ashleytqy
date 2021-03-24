@@ -1,1 +1,1 @@
-currently: working on the windows trusted platform module stack.
+who is your root of trust?
