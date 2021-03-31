@@ -1,1 +1,1 @@
-who is your root of trust?
+where is your root of trust now?
